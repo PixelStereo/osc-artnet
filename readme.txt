@@ -2,7 +2,7 @@ OSC-artnet
 ---
 a simple osc writer from artnet data
 ---
-For now it's a max patch and needs aka.datagram external from IAMAS : 
-http://www.iamas.ac.jp/~aka/max/download/aka.datagram.zip
+Application is available for OSX.
 ---
-Windows and Mac version will be released before summer 2012
+If you want to run the patch in Max (from Cycling74), you need to download "aka.datagram" external from IAMAS : 
+http://www.iamas.ac.jp/~aka/max/download/aka.datagram.zip
